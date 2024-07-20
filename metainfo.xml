@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="7AD63635-A402-4838-B835-62F7B94F26D2" version="0">
+	<info>
+		<title>Exam-8</title>
+		<description/>
+	</info>
+	<files index="id50" thumbnail="id46" totalSize="2968219">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/html5.png</file>
+		<file id="id10">data/images/img-041965ca1753757b89e1dbd1b374c67c12ffb95b.jpg</file>
+		<file id="id11">data/images/img-0a8e0ce776eeccaa2ec6fac8cda72b53770428c8.jpg</file>
+		<file id="id12">data/images/img-0b5e1207b8d1cd3bf80f060ee263dd6db255ca7a.png</file>
+		<file id="id13">data/images/img-103ab43aa8e230d709398a58bd554a00c33425e1.png</file>
+		<file id="id14">data/images/img-1b10c7b38d84de3f36276fa63da847e04bf033cd.jpg</file>
+		<file id="id15">data/images/img-463b4029630877cf828e4f98be623b6f661e2a67.png</file>
+		<file id="id16">data/images/img-47600dd774d260a5af71fe03d22f930319cba74f.png</file>
+		<file id="id17">data/images/img-4c51483a8a0ba3be4a7d88fad429958714fd81e4.jpg</file>
+		<file id="id18">data/images/img-4f2b3dc04fc52cfed04b514ee0e2c70de1f3f32e.png</file>
+		<file id="id19">data/images/img-594c47601f2596caccdef50c2fdda3f97559d020.jpg</file>
+		<file id="id20">data/images/img-5e32e65efaa31a4602067c05586d881c23faf7b8.jpg</file>
+		<file id="id21">data/images/img-5e348ae19953b064c69764cab7736e900d75ef8b.jpg</file>
+		<file id="id22">data/images/img-5fa6f6cf12316f51d90c947d792b8a4df3778aa9.jpg</file>
+		<file id="id23">data/images/img-656c4c004d277b94a48195f81f73fbd2ab18673c.jpg</file>
+		<file id="id24">data/images/img-69cc054d53e467bbb573a5345720e01464cfddf3.jpg</file>
+		<file id="id25">data/images/img-72656091ffc31021cc623013b596388c9b169b99.png</file>
+		<file id="id26">data/images/img-81f236fc96fb149d8a52486670e402f39647ae08.jpg</file>
+		<file id="id27">data/images/img-9a3679e91af5c240cbde99f67d5c11ec1357c741.jpg</file>
+		<file id="id28">data/images/img-9ffc2d6f7b4d7405fc448fdb896fefc05e864be8.jpg</file>
+		<file id="id29">data/images/img-a836e19cd2e579dde20b9a1b35977471c2114a92.jpg</file>
+		<file id="id30">data/images/img-ab596861b7b6e13a825933bb0188219bb63ee705.png</file>
+		<file id="id31">data/images/img-b004c30c8991e0cf6875d7b5c82929fafd1793a2.png</file>
+		<file id="id32">data/images/img-b0f7684f93caab9f10d25627689d61caf19ea6df.jpg</file>
+		<file id="id33">data/images/img-b8545a6bc3096ade212b5a5de53f44d74616871e.png</file>
+		<file id="id34">data/images/img-c26507d35f76639c047b7f84cd42280efbed2cde.PNG</file>
+		<file id="id35">data/images/img-c6d5f06a8063821dffb6b9fc3db4e0355ccce4bd.jpg</file>
+		<file id="id36">data/images/img-c7173a8cff0d1a170205ad9c3694df0a120813d4.png</file>
+		<file id="id37">data/images/img-cc36dba3cf520b977a03d42cb31deb4d04138795.jpg</file>
+		<file id="id38">data/images/img-ceb46d1fc809d12f8ae29204d523484f020baf96.jpg</file>
+		<file id="id39">data/images/img-d259164b26546efb15fb6866abe3a8fdb113399b.jpg</file>
+		<file id="id40">data/images/img-d312dddda80adc36495a9c2ca1889aa49fbc9243.jpg</file>
+		<file id="id41">data/images/img-db988c600f0c5869baeec24d9a97c4ed03a1ac68.jpg</file>
+		<file id="id42">data/images/img-dd34a3d40590211a4d67a541c23b9fc3fb9b21ba.jpg</file>
+		<file id="id43">data/images/img-f1f019819c4f54c46d0ff86950892df7c9b2d92b.jpg</file>
+		<file id="id44">data/ismplayer/app_store2x.png</file>
+		<file id="id45">data/ismplayer/play.svg</file>
+		<file id="id46">data/ismplayer/preview.png</file>
+		<file id="id47">data/ismplayer/style.css</file>
+		<file id="id48">data/ismplayer/style_mini.css</file>
+		<file id="id49">data/player.js</file>
+		<file id="id50">index.html</file>
+		<file id="id51">ismplayer.html</file>
+		<file id="id52">preview.png</file>
+	</files>
+</presentation>
+
